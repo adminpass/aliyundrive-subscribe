@@ -55,6 +55,7 @@ aria2-rpc-enable       = false
 - 云盘转存重置（清空云盘对应目录资源，重置订阅记录）
 - 刷新（重新拉取订阅资源并自动转存）
 - 完结（手动设为完结，若订阅链有完结`文件`标识，则自动设置完结）
+- 分享（30天限时分享）
 - 远程下载（Aria2远程配置并启用，订阅中开启下载）
 - 列表跳转：订阅时间（转存目录）；订阅主题（订阅链目录）最近更新记录（订阅记录列表）
 
@@ -99,6 +100,8 @@ aria2-rpc-enable       = false
 
 - 云盘分享下载：直接从分享链接下载，不转存到自己云盘
 
+- 福利码兑换
+
 ![云盘助手](./screenshots/zhushou.jpg)
 
 ### 云盘资源
@@ -114,6 +117,13 @@ aria2-rpc-enable       = false
 ![云盘资源](./screenshots/ziyuan.jpg)
 ![云盘资源操作](./screenshots/ziyuan_caozuo.jpg)
 ![云盘资源播放](./screenshots/bofang.jpg)
+
+### 云盘分享
+
+- 列表、统计、[分享、取消]
+- 所有分享
+
+![云盘分享](./screenshots/fenxiang.jpg)
 
 ## 免责声明
 1. 本软件为免费开源项目，无任何形式的盈利行为。
