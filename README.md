@@ -23,8 +23,8 @@ app-cache-dir      = conf/cache
 app-dingding-robot = [app-dingding-robot]
 # 钉钉机器人附带外链播放地址, 为当前服务访问地址
 app-play-url       = http://10.0.1.18:8002
-# 授权 暂时防止后面不可控因素，目前到5月1日，到期会发新的，稳定后会移除这个限制
-app-authorize      = 3NvtzXFq9v+B1n7dYzODvFOF/c98vXq+nhY+6Mh8Vqk=
+# 授权 暂时防止后面不可控因素，目前到7月1日，到期会发新的，稳定后会移除这个限制
+app-authorize      = xQ1EfybOU0VTIyYkKOBF6PPPzO/vLfdr0gfcwY+dbls=
 
 [aliyundrive]
 # 云盘refresh-token
